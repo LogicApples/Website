@@ -1,0 +1,15 @@
+{
+  "background_color": "blue",
+  "description": "Official application of Cloudness Development.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Cloudness Development",
+  "short_name": "Cloudness",
+  "start_url": "index.html"
+}
