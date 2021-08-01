@@ -7,6 +7,7 @@ Official Website of Cloudness Development
 
 # Changelogs
 - Released website to the public
+- Disabled maintenance mode 01-08-2021 10:55 PM CEST/GMT+2
 - Enabled maintenance mode 31-07-2021 10:05 PM CEST/GMT+2
 
 # Current version
