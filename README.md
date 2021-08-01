@@ -6,6 +6,7 @@ Official Website of Cloudness Development
 - https://cldns.ml
 
 # Changelogs
+- Released website to the public
 - Enabled maintenance mode 31-07-2021 10:05 PM CEST/GMT+2
 
 # Current version
